@@ -1,4 +1,7 @@
 {
   "name": "3-asynchronous-JS",
-  "packageManager": "yarn@4.12.0"
+  "packageManager": "yarn@4.12.0",
+  "dependencies": {
+    "superagent": "^10.3.0"
+  }
 }
